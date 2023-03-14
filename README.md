@@ -18,12 +18,16 @@ I am a Front End Developer with over 3 years experience. Currently, I am working
 ## Hobbies
 
  🚗 Travel
+ 
  💪 Fitness 
+ 
  📸 Taking photos
 
 
 ## Connect With Me!
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-chebotar-926b071a3/)
+  
   or
+  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivann.chebotar@gmail.com)
