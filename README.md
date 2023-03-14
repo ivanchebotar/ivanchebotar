@@ -12,7 +12,7 @@ I am a Front End Developer with over 3 years experience. Currently, I am working
 
  #### Frameworks & Libraries
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![jQuery](https://img.shields.io/badge/jquery-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![jQuery](https://img.shields.io/badge/jquery?style=for-the-badge&logo=css3&logoColor=white)
  
 
 ## Hobbies
