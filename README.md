@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan 👋
+# Hi there, I'm Ivan 👋
 
 I am a Front End Developer with over 3 years experience. Currently, I am working for GetDevDone(https://getdevdone.com/) (by P2H) and in free time I develop my portfolio project which you can find here(https://github.com/ivanchebotar?tab=repositories) or find out more about me on my website(https://ivanchebotar.github.io/ivan-chebotar-personal-website/about.html).
 
@@ -19,6 +19,7 @@ I am a Front End Developer with over 3 years experience. Currently, I am working
 
  🚗 Travel
  💪 Fitness 
+ 📸 Taking photos
 
 
 ## Connect With Me!
