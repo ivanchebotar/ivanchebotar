@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan 👋
 
-I am a Front End Developer with over 3 years experience. Currently, I am working for [GetDevDone (by P2H)](https://getdevdone.com/) and in free time I develop my portfolio projects which you can find [here](https://github.com/ivanchebotar?tab=repositories) or find out more about me on my [website](https://ivanchebotar.github.io/ivan-chebotar-personal-website/about.html).
+I am a Front-End Developer with over 4 years of experience. I specialize in building responsive, user-friendly websites and optimizing performance for seamless user experiences. In my free time, I work on portfolio projects to sharpen my skills and explore new technologies. You can check out my projects [here](https://github.com/ivanchebotar?tab=repositories) or learn more about me on my [website](https://ivanchebotar.github.io/ivan-chebotar-personal-website/about.html).
 
 
 ## Knowledge Domain
